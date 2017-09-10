@@ -1,8 +1,4 @@
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<p style="font-size: 4em;">¯\_(ツ)_/¯</p>
 
 # Evgeniy Pakalo
 personal page
