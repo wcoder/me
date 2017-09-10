@@ -1,0 +1,33 @@
+# Site Info
+name: "Evgeniy Pakalo" # for feed
+title: "Evgeniy Pakalo "
+shortTitle: "Personal page"
+description: "--"
+
+# Author Info
+author: "Evgeniy Pakalo"
+twitter_username: "evgeniypakalo"
+github_username:  "wcoder"
+
+# Site Settings
+url: "http://http://evgeniy.pakalo.name" # the base hostname & protocol for your site
+enforce_ssl: "http://evgeniy.pakalo.name"
+baseurl: "" # the subpath of your site, e.g. /blog
+permalink: "/notes/:title"
+timezone: "Europe/Minsk"
+paginate: 10
+
+# Site Build
+exclude:
+  - CNAME
+  - README.md
+#excerpt_separator: "<!--more-->"
+
+# Other Params
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: "page"
+      optimize: true
