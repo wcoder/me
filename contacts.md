@@ -1,3 +1,1 @@
----
-redirect_to: http://evgeniy.pakalo.name/
----
+<meta http-equiv="refresh" content="1; url=/">
