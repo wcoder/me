@@ -15,6 +15,11 @@ I'm here:
 * [Twitter](https://twitter.com/evgeniypakalo)
 * [Medium](https://medium.com/@wcoder)
 
+Published packages:
+- [NPM](https://www.npmjs.com/~wcoder?activeTab=packages)
+- [NuGet](https://www.nuget.org/profiles/wcoder)
+
+
 ## &nbsp;
 
 &copy; 2018
