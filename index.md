@@ -1,7 +1,5 @@
 
-# Evgeniy Pakalo | Yauheni Pakala
-
-> personal page
+# Yauheni Pakala
 
 Cross-platform mobile developer. Web developer.
 
@@ -25,6 +23,11 @@ Published packages:
 
 Apps:
 - [Microsoft Store](https://www.microsoft.com/en-us/store/search/apps?q=yauheni%20pakala)
+
+Speaker:
+- 12/23/2017 - [IT SHARK MEETUP #1](https://it-shark.pro/) - Terminal..VR
+- 03/31/2018 - [IT SHARK MEETUP #2](https://events.epam.com/events/it-shark-meetup/talks/5230) - Flutter.io
+- 04/22/2018 - [SETCON BREST 2018](http://setcon.brest.tech/) - .NET Embedding
 
 ## &nbsp;
 
