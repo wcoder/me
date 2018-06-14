@@ -3,7 +3,7 @@
 
 Cross-platform mobile developer. Web developer.
 
-Xamarin Certified Mobile Developer.
+[Xamarin Certified Mobile Developer](https://devconnect.xamarin.com/profile/10974)
 
 &nbsp;
 
