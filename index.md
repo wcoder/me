@@ -40,9 +40,10 @@ Cross-Platform Mobile Developer. Web Developer.
 
 ### Community Contributions
 
+<p>
 <a href="https://github.com/it-shark-pro" target="_blank"><img src="https://avatars2.githubusercontent.com/u/34164782?s=200&v=4" alt="Xamarin Universe Contibutor Badge" width="120" /></a>
-
 <a href="https://github.com/xamarinuniverse" target="_blank"><img src="https://github.com/xamarinuniverse/XamarinUniversalLibrary/raw/master/img/Xamarin%20Universe%20Contibutor%20Badge.png" alt="Xamarin Universe Contibutor Badge" width="150"/></a>
+</p>
 
 ## &nbsp;
 
