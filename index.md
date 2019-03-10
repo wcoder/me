@@ -1,13 +1,13 @@
 
 # Yauheni Pakala
 
-Cross-platform mobile developer. Web developer.
+Cross-Platform Mobile Developer. Web Developer.
 
 [Xamarin Certified Mobile Developer](https://devconnect.xamarin.com/profile/10974)
 
-&nbsp;
+---
 
-I'm here:
+### I'm here
 
 * [Tech Notes](https://wcoder.github.io/)
 * [Habr](https://habrahabr.ru/users/wcoder/)
@@ -17,17 +17,31 @@ I'm here:
 * [Twitter](https://twitter.com/evgeniypakalo)
 * [Medium](https://medium.com/@wcoder)
 
-Published packages:
-- [NPM](https://www.npmjs.com/~wcoder?activeTab=packages)
-- [NuGet](https://www.nuget.org/profiles/wcoder)
+### Published Packages
 
-Apps:
-- [Microsoft Store](https://www.microsoft.com/en-us/store/search/apps?q=yauheni%20pakala)
+* [NPM](https://www.npmjs.com/~wcoder?activeTab=packages)
+* [NuGet](https://www.nuget.org/profiles/wcoder)
 
-Speaker:
-- 12/23/2017 - [IT SHARK MEETUP #1](https://it-shark.pro/) - Terminal..VR
-- 03/31/2018 - [IT SHARK MEETUP #2](https://events.epam.com/events/it-shark-meetup/talks/5230) - Flutter.io
-- 04/22/2018 - [SETCON BREST 2018](http://setcon.brest.tech/) - .NET Embedding
+### Store Apps
+
+* [Microsoft Store](https://www.microsoft.com/en-us/store/search/apps?q=yauheni%20pakala)
+
+### Speaker
+
+* 12/23/2017 - [IT-Shark Meetup #1](https://it-shark.pro/) - Terminal..VR
+* 03/31/2018 - [IT-Shark Meetup #2](https://events.epam.com/events/it-shark-meetup/talks/5230) - Flutter.io
+* 04/22/2018 - [Setcon Brest 2018](http://setcon.brest.tech/) - .NET Embedding
+
+### Certifications
+
+<img src="images/xamarinuniversitylogo.jpg" alt="Xamarin University Logo" width="300" />
+<img src="images/xamarin_ professional.svg" alt="Xamarin Professional Badge" width="100" />
+<img src="images/xamarin_mobile_developer.svg" alt="Xamarin Mobile Developer Badge" width="100" />
+
+### Community Contributions
+
+<img src="https://avatars2.githubusercontent.com/u/34164782?s=200&v=4" alt="Xamarin Universe Contibutor Badge" width="120" />
+<img src="https://github.com/xamarinuniverse/XamarinUniversalLibrary/raw/master/img/Xamarin%20Universe%20Contibutor%20Badge.png" alt="Xamarin Universe Contibutor Badge" width="150"/>
 
 ## &nbsp;
 
