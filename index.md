@@ -25,6 +25,7 @@ Cross-Platform Mobile Developer. Web Developer.
 ### Store Apps
 
 * [Microsoft Store](https://www.microsoft.com/en-us/store/search/apps?q=yauheni%20pakala)
+* [Chrome Web Store](https://chrome.google.com/webstore/search/yauheni%20pakala)
 
 ### Speaker
 
