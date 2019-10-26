@@ -1,9 +1,7 @@
 
 # Yauheni Pakala
 
-Cross-Platform Mobile Developer. Web Developer.
-
-[Xamarin Certified Mobile Developer](https://devconnect.xamarin.com/profile/10974)
+Cross-Platform Software Developer. Xamarin Certified Mobile Developer.
 
 ---
 
@@ -35,7 +33,6 @@ Cross-Platform Mobile Developer. Web Developer.
 
 ### Certifications
 
-<img src="images/xamarinuniversitylogo.jpg" alt="Xamarin University Logo" width="300" />
 <img src="images/xamarin_ professional.svg" alt="Xamarin Professional Badge" width="100" />
 <img src="images/xamarin_mobile_developer.svg" alt="Xamarin Mobile Developer Badge" width="100" />
 
@@ -48,7 +45,7 @@ Cross-Platform Mobile Developer. Web Developer.
 
 ## &nbsp;
 
-&copy; 2018
+&copy; 2019
 
 <!--
 
