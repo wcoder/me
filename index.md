@@ -1,7 +1,7 @@
 
 # Yauheni Pakala
 
-Cross-Platform Software Developer. Xamarin Certified Mobile Developer.
+Software Developer. Xamarin Certified Mobile Developer.
 
 ---
 
@@ -45,7 +45,7 @@ Cross-Platform Software Developer. Xamarin Certified Mobile Developer.
 
 ## &nbsp;
 
-&copy; 2019
+&copy; 2020
 
 <!--
 
