@@ -24,6 +24,7 @@ Software Developer. Xamarin Certified Mobile Developer.
 
 * [Microsoft Store](https://www.microsoft.com/en-us/store/search/apps?q=yauheni%20pakala)
 * [Chrome Web Store](https://chrome.google.com/webstore/search/yauheni%20pakala)
+* [Google Play](https://play.google.com/store/apps/developer?id=Yauheni+Pakala)
 
 ### Speaker
 
