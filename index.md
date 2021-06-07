@@ -34,14 +34,23 @@ Software Developer. Xamarin Certified Mobile Developer.
 
 ### Certifications
 
-<img src="images/xamarin_ professional.svg" alt="Xamarin Professional Badge" width="100" />
-<img src="images/xamarin_mobile_developer.svg" alt="Xamarin Mobile Developer Badge" width="100" />
+<p>
+  <img src="images/xamarin_ professional.svg" alt="Xamarin Professional Badge" width="100" />
+  <img src="images/xamarin_mobile_developer.svg" alt="Xamarin Mobile Developer Badge" width="100" />
+</p>
 
 ### Community Contributions
 
 <p>
-<a href="https://github.com/it-shark-pro" target="_blank"><img src="https://avatars2.githubusercontent.com/u/34164782?s=200&v=4" alt="Xamarin Universe Contibutor Badge" width="120" /></a>
-<a href="https://github.com/xamarinuniverse" target="_blank"><img src="https://github.com/xamarinuniverse/XamarinUniversalLibrary/raw/master/img/Xamarin%20Universe%20Contibutor%20Badge.png" alt="Xamarin Universe Contibutor Badge" width="150"/></a>
+  <a href="https://github.com/it-shark-pro" target="_blank">
+    <img src="https://avatars2.githubusercontent.com/u/34164782?s=200&v=4" alt="Xamarin Universe Contibutor Badge" width="120" />
+  </a>
+  <a href="https://github.com/xamarinuniverse" target="_blank">
+    <img src="https://github.com/xamarinuniverse/XamarinUniversalLibrary/raw/master/img/Xamarin%20Universe%20Contibutor%20Badge.png" alt="Xamarin Universe Contibutor Badge" width="150"/>
+  </a>
+  <a href="https://github.com/dotnet-foundation" target="_blank">
+    <img src="https://dotnetfoundation.org/img/logo_v4.svg" alt="Xamarin Foundation Logo" width="120"/>
+  </a>
 </p>
 
 ## &nbsp;
